@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reciclar View</string>
+    <string name="TextViewTitulo">Titulo</string>
+    <string name="TextViewGenero">Gênero</string>
+    <string name="TextViewAno">Ano</string>
+
+
+
+
+</resources>
